@@ -1,0 +1,10 @@
+c:\users\c13-00\documents\visual studio 2015\Projects\Pujcovna\Pujcovna\bin\Debug\Pujcovna.exe.config
+c:\users\c13-00\documents\visual studio 2015\Projects\Pujcovna\Pujcovna\bin\Debug\Pujcovna.exe
+c:\users\c13-00\documents\visual studio 2015\Projects\Pujcovna\Pujcovna\bin\Debug\Pujcovna.pdb
+c:\users\c13-00\documents\visual studio 2015\Projects\Pujcovna\Pujcovna\obj\Debug\Pujcovna.csprojResolveAssemblyReference.cache
+c:\users\c13-00\documents\visual studio 2015\Projects\Pujcovna\Pujcovna\obj\Debug\Pujcovna.Form1.resources
+c:\users\c13-00\documents\visual studio 2015\Projects\Pujcovna\Pujcovna\obj\Debug\Pujcovna.Properties.Resources.resources
+c:\users\c13-00\documents\visual studio 2015\Projects\Pujcovna\Pujcovna\obj\Debug\Pujcovna.csproj.GenerateResource.Cache
+c:\users\c13-00\documents\visual studio 2015\Projects\Pujcovna\Pujcovna\obj\Debug\Pujcovna.exe
+c:\users\c13-00\documents\visual studio 2015\Projects\Pujcovna\Pujcovna\obj\Debug\Pujcovna.pdb
+c:\users\c13-00\documents\visual studio 2015\Projects\Pujcovna\Pujcovna\obj\Debug\Pujcovna.NovyZakaznik.resources
